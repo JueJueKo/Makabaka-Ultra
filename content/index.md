@@ -1,4 +1,4 @@
 ---
-title: Welcome to Makabaka-Ultra
+title: Welcome to Makabaka-**Ultra**
 ---
 Test home page
