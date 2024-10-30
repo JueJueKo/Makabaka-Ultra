@@ -9,15 +9,13 @@ title: Welcome to Makabaka-Ultra
 	- 物質量と化学反応式 #amount_of_substance
 - 物質の状態
 	- 三態と状態変化 #phase_change
-		- [物質の三態(固体・液体・気体)、水の状態変化とエネルギー](https://examist.jp/chemistry/state/jyoutaihenka/)
-		- [二酸化炭素CO₂と水H₂Oの状態図](https://examist.jp/chemistry/state/jyoutaizu/) 
 	- 気体 #gas
 	- 溶液 
 		- 溶解度 #solubility
 		- 希薄溶液 #diluted_solution
 		- コロイド #colloid
 - 物質の変化
-	- 熱化学 #Thermochemistry
+	- 熱化学 #thermochemistry
 	- 反応速度 #reaction_velocity
 	- 化学平衡と平衡移動 #chemical_equilibrium
 	- 酸と塩基と塩 #acid_base_salt
