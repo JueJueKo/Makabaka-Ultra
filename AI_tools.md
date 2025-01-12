@@ -12,7 +12,7 @@ I will upload come images of pages from a book. These pages are pages from a tex
 always remember the following regulations:
 Markdown formatting regulation: use pair of dollar marks for inline math notations, and pair of double dollar marks for math notations in a separated line. 
 
-Passage formatting regulation: use heading hierarchy like the example follows: # 1. (Highest tier subject), ## 1.1 (2nd tier subject) ### 1.1.1 (third tier subject) and etc.
+Passage formatting regulation: use heading hierarchy like the example follows: # 1. (Highest tier subject), ## 1.1 (2nd tier subject) , for third tier subject use sth like '1. ' that will be recognized as numbered list in markdown, and for fouth tier and below, just use '-', which is a non-numbered list.
 
 now would you kindly give me a copiable text for that text written in markdown file. the kind that you provide inside a box that have a button of 'copy' I can click, thanks!
 ```
